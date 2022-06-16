@@ -1,0 +1,27 @@
+.product-container{
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid gray;
+    margin: 5px;
+    margin-left: 10%;
+    /* width: 35%; */
+}
+img{
+    margin: 10px;
+}
+.cart-button{
+    background-color: rgb(240, 219, 81);
+    width: 30%;
+    border-radius: 5px;
+}
+.cart-button:hover{
+    cursor: pointer;
+}
+.details{
+    text-align: left;
+    margin-left: 40px;
+}
+.details h4{
+    color: blue;
+}

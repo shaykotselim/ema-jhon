@@ -1,0 +1,29 @@
+.cart-contaniner{
+
+}
+h3{
+    color: rgb(0, 47, 255);
+}
+.orderdetails{
+    text-align: left;
+    margin: 20px;
+    line-height: 10px;
+}
+h4{
+    color: brown;
+}
+.review-order{
+    background-color: rgb(243, 210, 46);
+    width: 60%;
+    border-radius: 5px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.cost{
+    display: flex;
+    /* text-align: right; */
+}
+.cost2{
+    margin-left: 20px;
+    text-align: right;
+}

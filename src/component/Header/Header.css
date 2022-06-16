@@ -1,0 +1,33 @@
+                /*  Header Image  */
+.header-container img{
+    width: 20%;
+}
+                /* Navigation Section */
+.navigation{
+    background-color:black;
+    height: auto;
+    padding: 15px;
+}
+.navigation nav a{
+    text-decoration: none;
+    margin: 40px;
+    color:white;
+
+    
+}
+nav a:hover{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+                /*  Search Section */
+.search-container{
+    background-color: gray;
+    padding: 10px;
+}
+.search-container input{
+    height: 20px;
+     width: 40%;
+}
